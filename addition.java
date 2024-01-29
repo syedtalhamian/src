@@ -1,6 +1,6 @@
 // Your First Program
 
-class HelloWorld {
+class addition {
     public static void main(String[] args) {
         System.out.println("the sum of these numbers is:");
         int num1 = 1;
