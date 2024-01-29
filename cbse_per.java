@@ -1,4 +1,5 @@
 import java.util.Scanner;
+the user input through keyboard*/
 public class cbse_per {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
