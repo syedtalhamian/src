@@ -1,3 +1,5 @@
+//Question:02 Get Input From User By Keyboard Using Java And Print It As Output.
+
 import java.util.Scanner; //Importing The Java Scanner Class
 
 /*it is important to import Scanner class for getting 
